@@ -30,6 +30,15 @@ select {
   font-size: 18px;
 }
 
+h1 a {
+  cursor: pointer;
+  color: #0d0d0d;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  color: #454340;
+}
 .container {
   max-width: 600px;
   margin: 60px auto;
